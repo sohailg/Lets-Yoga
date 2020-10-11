@@ -2,6 +2,7 @@
 
 Let's Yoga is the app where you can find top yoga asanas to make you fit, track and learn more related stuffs into it. 
 <br>
+This project complete focuses on the angular, if you know angular then your're in.
 **Are you ready to contribute to this app?**
 
 If yes follow my words..!
